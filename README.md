@@ -1,4 +1,4 @@
-## Image Classification Project.
+## Image Classification Project
 
 In this project, I worked on classifying images from the CIFAR-10 dataset. The dataset consists of 10 different type of objects:
 
@@ -29,12 +29,14 @@ This project requires Python 3 and the following Python libraries installed:
 
 You will also need to have software installed to run and execute a Jupyter Notebook
 
-If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
-Run
+If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which 
+already has all the above packages needed for this project
 
-In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
+## Run
+
+In a terminal or command window, navigate to the top-level project directory (that contains this README.md) and run the command below:
 
 ```
-ipython notebook dlnd_image_classification.ipynb
+jupyter notebook dlnd_image_classification.ipynb
 ```
 
